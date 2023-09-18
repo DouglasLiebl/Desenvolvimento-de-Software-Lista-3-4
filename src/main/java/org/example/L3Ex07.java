@@ -86,7 +86,7 @@ public class L3Ex07 {
             System.out.println(e.getMessage());
         }
     }
-    
+
     public static void main(String[] args) {
         search(new Scanner(System.in));
     }
